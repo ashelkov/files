@@ -5071,7 +5071,7 @@
   "buffers": [
     {
       "byteLength": 1849744,
-      "uri": "scene.bin"
+      "url": "https://raw.githubusercontent.com/ashelkov/files/master/scene.bin"
     }
   ],
   "materials": [
